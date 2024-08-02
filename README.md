@@ -13,7 +13,7 @@ Para que o NVC funcione corretamente, você precisará de privilégios de admini
 
 1. Clone o repositório em seu computador.
 
-2. Edite a variável PATH do seu sistema para alterar o local da instalação do NodeJS.  A localização padrão do NVC será ``` C:\nodejs ```. Consulte a seção Configuração para alterar o local padrão.
+2. Adicione a permissão de escrita na pasta C:\Program Files\nodejs (Caso não seja administrador)
 
 4. Execute comandos usando nvc na linha de comando ou powershell.
 
