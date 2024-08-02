@@ -4,4 +4,4 @@
   "WINDOWS_ARCITECTURE": "x64", //arquitetura do windows
   "TEMP_FOLDER": "%TEMP%\\NodeJSVersionDownloads", //diretorio temporario para download das versões
   "NPM_GLOBALS_DIRECTORY": "%USERPROFILE%\\AppData\\Roaming\\npm\\node_modules" //diretorio onde os modulos globais do npm serão instalados
-} 
+}
