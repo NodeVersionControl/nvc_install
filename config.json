@@ -1,5 +1,5 @@
 ﻿{
-  "NODE_DIRECTORY": "C:\\nodejs",
+  "NODE_DIRECTORY": "C:\\Program Files\\nodejs",
   "NODE_VERSIONS_DIRECTORY": "C:\\nodejsVersions",
   "WINDOWS_ARCITECTURE": "x64",
   "TEMP_FOLDER": "%TEMP%\\NodeJSVersionDownloads",
